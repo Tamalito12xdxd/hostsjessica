@@ -1,0 +1,19 @@
+{
+  "name": "hostjessica",
+  "version": "0.0.0",
+  "description": "jessica bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  "keywords": [
+    "mi",
+    "bot"
+  ],
+  "author": "takumi <takumigithub12xd@hotmail.com>",
+  "license": "ISC"
+}
